@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 This is the Rick James README File
-It's a celebration Bitches! ENjoy yo-self!
+It's a celebration Bitches! Enjoy yo-self!
 =======
 # sclomby
 My test repo while I am learning Git
